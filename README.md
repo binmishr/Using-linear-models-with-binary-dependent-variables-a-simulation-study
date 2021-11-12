@@ -1,0 +1,1 @@
+# Using-linear-models-with-binary-dependent-variables-a-simulation-study
